@@ -1,33 +1,36 @@
-# 👋 Hi there, I'm Ehab Ashraf
+# 👋 Hi, I'm Ehab Ashraf
 
-🎓 Computer Science Student at NUB  
-💻 Passionate about .NET & Web Development  
-🚀 Always exploring new technologies and improving my skills
-
----
-
-## 🔧 Tech Stack & Skills
-
-- 💡 Languages: C#, C++, Python, JavaScript, HTML, CSS
-- 🛠️ Frameworks & Tools: ASP.NET Core / MVC, Git & GitHub
-- 🗄️ Databases: SQL Server, Entity Framework
-- 📘 Concepts: Data Structures & Algorithms, OOP, MVC architecture
+🎓 A 4th-year Computer Science student at NUB  
+🛠️ Passionate about **.NET**, backend development, and building scalable web applications.  
+💻 Actively learning new technologies and contributing to open-source projects.  
+🏆 Problem Solver | Codeforces enthusiast | Curious learner
 
 ---
 
-## 📂 Featured Project
+## 💼 Technical Skills
 
-- 🔹 [Hospital Management System](https://github.com/eh3p/hospital-management-system)  
-  A full-stack ASP.NET Core web application for managing hospital operations including patients, doctors, and appointments.
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: ehabashraf1667@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ehab-ashraf-9a43a9283/)  
+- **Languages:** C#, C++, Python, JavaScript, HTML, CSS  
+- **Frameworks:** ASP.NET Core, .NET MVC, Entity Framework  
+- **Databases:** SQL Server  
+- **Tools:** Git, GitHub, Visual Studio, Postman
 
 ---
 
-> ⭐ Currently looking for internship or junior opportunities in web development (.NET stack)
+## 🚀 Featured Projects
 
+- [🏥 Hospital Management System](https://github.com/eh3p/hospital-management-system)  
+  ASP.NET Core based web system for managing hospital operations, appointments, and staff.
+
+- [📚 Bookstore API](https://github.com/eh3p/bookstore-api) 
+  A RESTful API built with .NET Core to manage a bookstore's inventory, customers, and orders.
+
+---
+
+
+
+## 📫 Contact Me
+
+- 📧 ehabashraf1667@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ehab-ashraf-9a43a9283)
+
+---
