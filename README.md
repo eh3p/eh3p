@@ -42,7 +42,6 @@
 
 - 🔗 [Hospital Management System](https://github.com/eh3p/hospital-management-system) – Web app for managing hospital operations (ASP.NET Core)
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -63,8 +62,5 @@
   <a href="https://linkedin.com/in/ehab-ashraf-9a43a9283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eh3p/eh3p/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
