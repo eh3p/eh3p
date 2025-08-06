@@ -1,70 +1,70 @@
 <h1 align="center">Hi 👋, I'm Ehab Ashraf</h1>
-<h3 align="center">A Computer Science student passionate about .NET and Web Development</h3>
+<h3 align="center">Computer Science Student | .NET Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eh3p&label=Profile%20views&color=0e75b6&style=flat" alt="eh3p" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A4D68&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+passionate+about+.NET+%26+Web+Development;Always+learning+and+exploring+new+techs" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
+## 🧑‍💻 About Me
 
-- 🎓 CS Student at NUB  
-- 💻 Passionate about **.NET**, **Backend Development**, and **Databases**  
-- 📚 Constantly learning and improving skills  
-- 💬 Ask me about **ASP.NET**, **C#**, **SQL**, **Data Structures & Algorithms**
+- 🎓 I'm a Computer Science student at **NUB (senior level)**
+- 💡 Passionate about **.NET**, web development, and solving problems
+- 🚀 Always learning and exploring new technologies
+- 📫 How to reach me: **ehabashraf1667@gmail.com**
 
 ---
 
-### 🚀 Languages and Tools
+## 💼 Tech Stack
+
+### 💻 Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🛠 Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [Hospital Management System](https://github.com/eh3p/hospital-management-system) – Web app for managing hospital operations (ASP.NET Core)
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eh3p&show_icons=true&theme=react&hide_title=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3p&layout=compact&theme=react&hide_title=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:ehabashraf1667@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ehab-ashraf-9a43a9283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### 📂 Projects
-
-- 🔗 [Hospital Management System](https://github.com/eh3p/hospital-management-system) – ASP.NET Core based system for managing hospital operations.
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eh3p&show_icons=true&theme=tokyonight" alt="Ehab's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3p&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 💻 Competitive Programming
-
-- 👨‍💻 [Codeforces](https://codeforces.com/profile/eh3p)  
-- 🧠 [LeetCode](https://leetcode.com/eh3p/)
-
----
-
-### 📫 Connect With Me
-
-- 📧 [ehabashraf1667@gmail.com](mailto:ehabashraf1667@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ehab-ashraf-9a43a9283)  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/eh3p/eh3p/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
