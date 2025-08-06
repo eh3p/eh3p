@@ -2,8 +2,9 @@
 <h3 align="center">Computer Science Student | .NET Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A4D68&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+passionate+about+.NET+%26+Web+Development;Always+learning+and+exploring+new+techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A4D68&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+.NET+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
 
 ---
 
