@@ -16,7 +16,6 @@
 
 🎓 I'm a senior CS student and aspiring software engineer, with a deep interest in backend systems, clean code principles, and scalable API design.
 
-- 🔭 Currently building: **Hospital Management System API**
 - 🌱 Learning: **Advanced .NET Core patterns**, **Microservices Architecture**
 - 💬 Ask me about: `ASP.NET Core`, `EF Core`, `REST APIs`, `Clean Architecture`
 - ⚡ Fun Fact: I love optimizing code as much as I love writing it ✨
@@ -55,7 +54,7 @@
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Projects
 
 ### 🏥 Hospital Management System API  
 [![View Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/eh3p/hospital-management-system)
@@ -68,6 +67,19 @@
 - Search, Filter, Validation
 - Layered architecture with Repository Pattern
 - Swagger docs + error handling
+
+---
+
+### 🛒 E-Commerce API (.NET 9)  
+[![View Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/eh3p/E-CommerceAPI)
+
+> **A simple and clean e-commerce REST API with product and order management**
+
+**🔧 Tech Used:** ASP.NET Core 9, In-memory storage, Swagger  
+**📋 Features:**
+- CRUD operations for Products
+- Order creation and status updates
+- Interactive Swagger API docs for easy testing
 
 ---
 
