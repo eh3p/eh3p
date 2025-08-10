@@ -61,7 +61,7 @@
 
 > **Robust and scalable RESTful API for managing hospital operations**
 
-**🔧 Tech Used:** ASP.NET Core 9, EF Core, SQLite, AutoMapper, Swagger  
+**🔧 Tech Used:** ASP.NET Core 9, EF Core, SQL Server, AutoMapper, Swagger  
 **📋 Features:**
 - Full CRUD for Patients, Doctors, Appointments
 - Search, Filter, Validation
@@ -119,3 +119,4 @@
   <br/>
   🚀 Thank you for visiting! Feel free to explore my projects and connect.  
 </div>
+
