@@ -14,7 +14,7 @@
   <a href="mailto:ehabashraf1667@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ehab-ashraf-9a43a9283/">
+  <a href="https://www.linkedin.com/in/ehabachraf/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/eh3p">
@@ -125,7 +125,7 @@
   <a href="mailto:ehabashraf1667@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ehabashraf1667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ehab-ashraf-9a43a9283/">
+  <a href="https://www.linkedin.com/in/ehabachraf/">
     <img src="https://img.shields.io/badge/LinkedIn-Ehab%20Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/eh3p">
@@ -134,3 +134,4 @@
 </p>
 
 ---
+
